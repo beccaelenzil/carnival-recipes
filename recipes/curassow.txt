@@ -1,5 +1,8 @@
 Jane's Banana Bread
 ---------------------
+
+Ingredients:
+1 teaspoon baking soda
 1/2 cup butter
 1/2 teaspoon vanilla
 1 cup sugar
@@ -17,5 +20,5 @@ Directions:
 10. Bake at 350 degrees for 55 minutes.
 
 
-
+Time: 1 hour 5 minutes
 
